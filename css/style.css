@@ -5,6 +5,10 @@ h1{
     background-color: aqua;
 }
 
+div.image{
+    width: auto;
+    text-align: center;
+}
 h2{
     color: blue;
     width: auto;
