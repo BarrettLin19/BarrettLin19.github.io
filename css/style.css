@@ -15,7 +15,7 @@ h1{
     background-color: aqua;
 }
 
-#image{
+img{
     text-align: center;
     margin: 10px auto;
 }
@@ -28,7 +28,6 @@ h2{
 }
 
 h3{
-    color: beige;
     text-align: center;
     margin: 10px auto;
 }
