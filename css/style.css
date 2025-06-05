@@ -2,7 +2,7 @@ h1{
     width: auto;
     text-align: center;
     font-weight: bold;
-    background-color: blueviolet;
+    background-color: aqua;
 }
 
 div.image{
@@ -16,8 +16,4 @@ h2{
     width: auto;
     text-align: center;
     margin: 0 auto;
-}
-
-p{
-    text-align: left;
 }
