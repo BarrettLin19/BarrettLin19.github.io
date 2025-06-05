@@ -2,9 +2,10 @@
 body{
     text-align: center;
     font-family:'Gill Sans';
+    max-width: 1200px;
 }
+
 p{
-    max-width: 800px;
     text-align: center;
     padding: 0 20px;
 }
