@@ -5,12 +5,11 @@ h1{
     background-color: aqua;
 }
 
-div.image{
-    height: auto;
-    width: auto;
+#image{
     text-align: center;
     margin: 0 auto;
 }
+
 h2{
     color: blue;
     width: auto;
